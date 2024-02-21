@@ -6,12 +6,12 @@ This repository contains HTML and CSS code to create an animated loader with a w
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/animated-loader.git
+   git clone https://github.com/withaarzoo/loader.git
    ```
 
 2. **Navigate to the Directory:**
    ```
-   cd animated-loader
+   cd loader
    ```
 
 3. **HTML Structure:**
