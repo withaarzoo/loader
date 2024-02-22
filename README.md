@@ -1,6 +1,6 @@
 # Animated Loader
 
-This repository contains HTML and CSS code to create an animated loader with a wave effect. Follow the steps below to understand how to use this code.
+This repository contains HTML and CSS code to create an animated loader with a wave effect. Follow the steps below to understand how to use this code .
 
 ## Preview
 ![preview](https://github.com/withaarzoo/loader/assets/59678435/bf7dbee2-e9b5-4d10-a192-7b53c5f33edf)
